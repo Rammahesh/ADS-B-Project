@@ -1,0 +1,28 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 13 07:12:00 EDT 2014
+http\://nexus.bnymellon.net/nexus/content/repositories/xjp_utils/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to xjp_utils (http\://nexus.bnymellon.net/nexus/content/repositories/xjp_utils)\: connect timed out
+http\://nexus.bnymellon.net/nexus/content/repositories/releases/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to releases (http\://nexus.bnymellon.net/nexus/content/repositories/releases)\: connect timed out
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1407928320040
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/thirdparty/.lastUpdated=1407928267510
+http\://nexus.bnymellon.net/nexus/content/groups/bnym-releases/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to BNYM Releases (http\://nexus.bnymellon.net/nexus/content/groups/bnym-releases/)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/d-XYZCorp-snapshots/.lastUpdated=1407928215121
+http\://nexus.bnymellon.net/nexus/content/repositories/grails/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to grails (http\://nexus.bnymellon.net/nexus/content/repositories/grails)\: connect timed out
+http\://nexus.bnymellon.net/nexus/content/repositories/thirdparty/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to thirdparty (http\://nexus.bnymellon.net/nexus/content/repositories/thirdparty/)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/snapshots/.lastUpdated=1407928246327
+http\://nexus.bnymellon.net/nexus/content/repositories/inautilus/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to inautilus (http\://nexus.bnymellon.net/nexus/content/repositories/inautilus)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/xjp_utils/.lastUpdated=1407928288706
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to central (http\://repo.maven.apache.org/maven2)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/releases/.lastUpdated=1407928236280
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/inautilus/.lastUpdated=1407928277563
+http\://nexus.bnymellon.net/nexus/content/repositories/d-XYZCorp-releases/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to d-XYZCorp-releases (http\://nexus.bnymellon.net/nexus/content/repositories/d-XYZCorp-releases/)\: connect timed out
+http\://nexus.bnymellon.net/nexus/content/repositories/d-XYZCorp-snapshots/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to d-XYZCorp-snapshots (http\://nexus.bnymellon.net/nexus/content/repositories/d-XYZCorp-snapshots)\: connect timed out
+http\://nexus.bnymellon.net/nexus/content/repositories/grails-plugins/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to grails-plugins (http\://nexus.bnymellon.net/nexus/content/repositories/grails-plugins)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/grails/.lastUpdated=1407928298762
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/central/.lastUpdated=1407928257444
+@default-http\://nexus.bnymellon.net/nexus/content/groups/public/.lastUpdated=1407928195079
+http\://nexus.bnymellon.net/nexus/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to public (http\://nexus.bnymellon.net/nexus/content/groups/public/)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/d-XYZCorp-releases/.lastUpdated=1407928226235
+http\://nexus.bnymellon.net/nexus/content/repositories/central/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to bnym-central (http\://nexus.bnymellon.net/nexus/content/repositories/central/)\: connect timed out
+http\://nexus.bnymellon.net/nexus/content/repositories/snapshots/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.2.0.1.0 from/to snapshots (http\://nexus.bnymellon.net/nexus/content/repositories/snapshots)\: connect timed out
+@default-http\://nexus.bnymellon.net/nexus/content/repositories/grails-plugins/.lastUpdated=1407928308824
+@default-http\://nexus.bnymellon.net/nexus/content/groups/bnym-releases/.lastUpdated=1407928205094
